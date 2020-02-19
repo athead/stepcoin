@@ -1,0 +1,2 @@
+# stepcoin
+A modern app
